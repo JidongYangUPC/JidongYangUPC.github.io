@@ -1,5 +1,9 @@
 ---
 title: Velocity-and-attenuation-models-of-BP-Gas-Reservoir1.0
+summary: This is a gas reservoir model with both P-wave velocity and Qp parameters. 
+tags:
+- Deep Learning
+slides: Velocity-and-attenuation-models-of-BP-Gas-Reservoir
 ---
 
 This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
