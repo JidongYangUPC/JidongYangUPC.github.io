@@ -40,6 +40,5 @@ design:
   view: 2
 ---
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
+​		{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
