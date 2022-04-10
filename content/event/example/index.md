@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Datasets
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -72,6 +72,6 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
