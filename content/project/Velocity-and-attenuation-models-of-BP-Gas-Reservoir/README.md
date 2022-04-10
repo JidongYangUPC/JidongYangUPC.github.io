@@ -11,7 +11,7 @@ This is a gas reservoir model with both P-wave velocity and Qp parameters. We bu
 The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). 
 
 ![plot](README.assets/vp.png)
-![plot](README.assets/qp-16495998744351.png)
+![plot](README.assets/qp.png)
 
 
 When using this model, please cite the following references:
