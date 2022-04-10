@@ -17,7 +17,7 @@ main:
     url: '#projects'
     weight: 40
   - name: Students
-    url: '#posts'
+    url: '#students'
     weight: 50
   - name: Datasets
     url: '#talks'
