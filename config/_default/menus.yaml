@@ -20,7 +20,7 @@ main:
     url: '#students'
     weight: 50
   - name: Datasets
-    url: '#talks'
+    url: '#datasets'
     weight: 60
   - name: Contact
     url: '#contact'
