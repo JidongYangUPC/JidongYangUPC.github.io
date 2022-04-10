@@ -1,5 +1,5 @@
 ---
-title: Interests
+title: Students
 cms_exclude: true
 
 # View.
