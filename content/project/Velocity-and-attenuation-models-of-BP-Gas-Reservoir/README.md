@@ -1,21 +1,31 @@
 ---
 title: Velocity-and-attenuation-models-of-BP-Gas-Reservoir
+subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: This is a gas reservoir model with both P-wave velocity and Qp parameters. 
 tags:
-- Deep Learning
-slides: Velocity-and-attenuation-models-of-BP-Gas-Reservoir
+authors:
+- admin
+tags: []
+categories: []
+projects: []
+date: "2019-02-05T00:00:00Z"
+lastMod: "2019-09-05T00:00:00Z"
+image:
+  caption: ""
+  focal_point: ""
 ---
+
+
 
 This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
 
 The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). 
 
-![plot](README.assets/vp.png)
-![plot](README.assets/qp.png)
+![png](./vp.png)
+![plot](./qp.png)
 
 
 When using this model, please cite the following references:
-
 
 @article{10.1093/gji/ggy323,
     author = {Yang, Jidong and Zhu, Hejun},
