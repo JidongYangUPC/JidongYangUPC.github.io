@@ -19,7 +19,7 @@ image:
 
 This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
 
-The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). 
+The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). ![featured](README.assets/featured.jpg)
 
 ![png](./vp.png)
 ![plot](./qp.png)
