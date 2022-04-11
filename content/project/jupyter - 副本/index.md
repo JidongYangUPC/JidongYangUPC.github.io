@@ -19,63 +19,66 @@ The model files are RSF format. The detailed RSF format is shown in the Madagasc
 ![png](./vp.png)
 
 
-![png](./index_1_0.png)
+![png](./qp.png)
+
+When using this model, please cite the following references:
+
+@article{10.1093/gji/ggy323,
+    author = {Yang, Jidong and Zhu, Hejun},
+    title = "{A time-domain complex-valued wave equation for modelling visco-acoustic wave propagation}",
+    journal = {Geophysical Journal International},
+    volume = {215},
+    number = {2},
+    pages = {1064-1079},
+    year = {2018},
+    month = {08},
+    issn = {0956-540X},
+    doi = {10.1093/gji/ggy323},
+    url = {https://doi.org/10.1093/gji/ggy323},
+    eprint = {https://academic.oup.com/gji/article-pdf/215/2/1064/25530487/ggy323.pdf},
+}
 
 
 
+@article{doi:10.1190/geo2018-0050.1,
+author = {Jidong Yang and Hejun Zhu},
+title = {Viscoacoustic reverse time migration using a time-domain complex-valued wave equation},
+journal = {GEOPHYSICS},
+volume = {83},
+number = {6},
+pages = {S505-S519},
+year = {2018},
+doi = {10.1190/geo2018-0050.1},
+URL = {https://doi.org/10.1190/geo2018-0050.1},
+eprint = {https://doi.org/10.1190/geo2018-0050.1}
+}
 
-```python
-print("Welcome to Academic!")
-```
 
-    Welcome to Academic!
+@article{doi:10.1190/geo2018-0804.1,
+author = {Jidong Yang and Hejun Zhu},
+title = {Viscoacoustic least-squares reverse time migration using a time-domain complex-valued wave equation},
+journal = {GEOPHYSICS},
+volume = {84},
+number = {5},
+pages = {S479-S499},
+year = {2019},
+doi = {10.1190/geo2018-0804.1},=
+URL = {https://doi.org/10.1190/geo2018-0804.1},
+eprint = https://doi.org/10.1190/geo2018-0804.1}
+}
 
 
-## Install Python and JupyterLab
-
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
-
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
-
-## Create or upload a Jupyter notebook
-
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
-
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
-
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
-
-## Edit your post metadata
-
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
-
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
-
-```
----
-title: My post's title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-```
-
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with Academic](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
-
-## Convert notebook to Markdown
-
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+@article{https://doi.org/10.1029/2019JB019129,
+author = {Yang, Jidong and Zhu, Hejun and Li, Xueyan and Ren, Li and Zhang, Shuo},
+title = {Estimating P Wave Velocity and Attenuation Structures Using Full Waveform Inversion Based on a Time Domain Complex-Valued Viscoacoustic Wave Equation: The Method},
+journal = {Journal of Geophysical Research: Solid Earth},
+volume = {125},
+number = {6},
+pages = {e2019JB019129},
+keywords = {seismic attenuation, seismic inversion, computational seismology},
+doi = {https://doi.org/10.1029/2019JB019129},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019129},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019JB019129},
+note = {e2019JB019129 10.1029/2019JB019129},
+year = {2020}
+}
