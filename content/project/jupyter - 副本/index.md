@@ -15,10 +15,9 @@ image:
   focal_point: ""
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
+
+The model files are RSF format. The detailed RSF format is shown in the Madagascar software website (www.ahay.org). 
 
 ![png](./vp.png)
 
