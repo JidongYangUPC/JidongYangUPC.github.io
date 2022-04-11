@@ -10,9 +10,6 @@ categories: []
 projects: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
-image:
-  caption: ""
-  focal_point: ""
 ---
 
 This is a gas reservoir model with both P-wave velocity and Qp parameters. We build this model by modifying the right part of the original BP model, which can be used for seismic modeling, migration and inversion study. 
