@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Jidong Yang is a professor of Geophysics at China University of Petroleum. His research interests include  exploration seismology, earthquake seismology, and computational seismology. 
+Jidong Yang is a professor of Geophysics at China University of Petroleum. His research interests include  exploration seismology, earthquake seismology, and computational seismology. He leads the *** group, which develops ... .
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
