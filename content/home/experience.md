@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CS group
-    company: China University of Petroleum
+  - title: Jidong Yang
+    company: China University of petroleum
     company_url: 'https://www.upc.edu.cn/'
     company_logo: org-gc
-    location: Shandong
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Qingdao, China
+    date_start: '2020-09'
+    date_end: 'present'
     description: |2-
         Responsibilities include:
         
