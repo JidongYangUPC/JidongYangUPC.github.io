@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Earth Sciences
-    institution: University of Texas at Dallas
+  - course: Doctor of Philosophy in Geosciences
+    institution: The University of Texas at Dallas
     year: 2016.09--2020.05
-  - course: MEng in Geological Resources and Geological Engineering
+  - course: Master of Engineering in Geophysics 
     institution: China University of Petroleum
     year: 2013.09--2016.07
-  - course: BSc in Exploration Technology and Engineering
+  - course: Bachelor of Engineering in Geophysics 
     institution: Xi'an Petroleum University
     year: 2009.09--2013.07
 
