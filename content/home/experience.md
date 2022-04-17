@@ -39,7 +39,7 @@ experience:
   - title: Research Intern
     company: TOTAL E&P USA Inc
     company_url: ''
-    company_logo: org-x
+    company_logo: total
     location: Houston, USA
     date_start: '2018-01-01'
     date_end: '2018-05-31'
@@ -49,7 +49,7 @@ experience:
   - title: Research Assistant
     company: UT Dallas
     company_url: ''
-    company_logo: org-x
+    company_logo: UTD
     location: Richardson, USA
     date_start: '2018-09-01'
     date_end: '2018-12-01'
@@ -60,7 +60,7 @@ experience:
   - title: Research Intern
     company: Saudi Aramco Service Company
     company_url: ''
-    company_logo: org-x
+    company_logo: Aramco
     location: Houston, USA
     date_start: '2018-06-01'
     date_end: '2018-08-01'
@@ -70,7 +70,7 @@ experience:
   - title: Research Assistant
     company: UT Dallas
     company_url: ''
-    company_logo: org-x
+    company_logo: UTD
     location: Houston, USA
     date_start: '2016-08-01'
     date_end: '2018-05-01'
