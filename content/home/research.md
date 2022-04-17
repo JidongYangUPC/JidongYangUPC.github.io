@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: FWI
+    tag: FWI
+  - name: Model
+    tag: Model
   - name: Other
     tag: Demo
 
