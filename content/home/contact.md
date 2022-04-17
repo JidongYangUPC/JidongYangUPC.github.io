@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: 2523526647@qq.com
-  phone: 17852830052
+  email: jidong.yang@upc.edu.cn
+  phone: 15964210517
   address:
     street: No.66 Changjiang West Road
     city: Qingdao
@@ -37,16 +37,13 @@ content:
   coordinates:
     latitude: '118.3218'
     longitude: '37.2750'
-  directions: Enter Building Comprehensive laboratory and take the stairs to Office D311 on Floor 3
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  directions: Enter Building Comprehensive laboratory and take the stairs to Office D313 on Floor 3
   appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
+    - icon: linkedin
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: https://www.linkedin.com/in/jidong-yang-144088136/
     - icon: video
       icon_pack: fas
       name: Zoom Me
