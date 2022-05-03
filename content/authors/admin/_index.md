@@ -31,9 +31,9 @@ education:
 
 # Interests to show in About widget
 interests:
-- Exploration Seismology: Gaussian beam migration, least-squares migration, elastic reverse-time migration, attenuation related modeling, imaging and inversion
-- Earthquake Seismology: Earthquake rupture imaging, discontinuity imaging, full-waveform inversion
-- Computational Seismology: Large-scale parallel software development for seismic studies
+- Exploration Seismology： Gaussian beam migration, least-squares migration, elastic reverse-time migration, attenuation related modeling, imaging and inversion
+- Earthquake Seismology： Earthquake rupture imaging, discontinuity imaging, full-waveform inversion
+- Computational Seismology： Large-scale parallel software development for seismic studies
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
