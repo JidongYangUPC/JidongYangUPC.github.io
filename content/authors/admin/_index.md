@@ -16,12 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include exploration seismology, earthquake seismology, and computational seismology.
 
-# Interests to show in About widget
-interests:
-- Exploration seismology
-- Earthquake seismology
-- Computational seismology
-
 # Education to show in About widget
 education:
   courses:
@@ -34,6 +28,12 @@ education:
   - course: Bachelor of Engineering in Geophysics
     institution: Xi'an Petroleum University
     year: 2009.09--2013.07
+
+# Interests to show in About widget
+interests:
+- Exploration Seismology
+- Earthquake Seismology
+- Computational Seismology
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
