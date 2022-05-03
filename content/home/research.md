@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: FWI
-    tag: FWI
-  - name: Model
-    tag: Model
-  - name: Other
-    tag: Demo
+  - name: Modeling
+    tag: Modeling  
+  - name: Imaging
+    tag: Imaging  
+  - name: Inversion
+    tag: Inversion
+  - name: AI
+    tag: AI
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
