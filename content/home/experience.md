@@ -32,9 +32,7 @@ experience:
     description: |2-
         Research interests:
         
-        * Exploration seismology: Gaussian beam migration, least-squares migration, elastic reverse-time migration,attenuation related modeling, imaging and inversion
-        * Earthquake seismology: earthquake rupture imaging, discontinuity imaging, full-waveform inversion
-        * Computational seismology: large-scale parallel software development for seismic studies
+        * Exploration seismology, Earthquake seismology, Computational seismology
         
   - title: Research Intern
     company: TOTAL E&P USA Inc
