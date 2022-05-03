@@ -28,10 +28,10 @@ education:
   - course: Doctor of Philosophy in Geosciences
     institution: The University of Texas at Dallas
     year: 2016.09--2020.05
-  - course: Master of Engineering in Geophysics 
+  - course: Master of Engineering in Geophysics
     institution: China University of Petroleum
     year: 2013.09--2016.07
-  - course: Bachelor of Engineering in Geophysics 
+  - course: Bachelor of Engineering in Geophysics
     institution: Xi'an Petroleum University
     year: 2009.09--2013.07
 
@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/jidong-yang-144088136/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-Jidong Yang is a professor of Geophysics at China University of Petroleum. His research interests include  exploration seismology, earthquake seismology, and computational seismology. He leads the *** group, which develops ... .
+We are a group of Computational Seismology at China University of Petroleum (East China). We are working on the high-resolution seismic imaging and inversion for different-scale targets: (1) near-surface structure (<5km), (2) deep and ultra-deep hydrocarbon reservoir (6km~10km), (3) earthquake rupture, (4) crust/mantle structure.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
