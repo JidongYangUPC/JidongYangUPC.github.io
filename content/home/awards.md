@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2022-04-01"
+  description: ""
+  organization: 中国地球物理学会
+  organization_url: 
+  title: 刘光鼎地球物理青年科学技术奖
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2021-04-01"
   description: ""
   organization: UT Dallas 
