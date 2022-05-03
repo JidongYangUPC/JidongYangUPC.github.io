@@ -67,6 +67,15 @@ email: ""
 highlight_name: true
 ---
 
-We are a group of Computational Seismology at China University of Petroleum (East China). We are working on the high-resolution seismic imaging and inversion for different-scale targets: (1) near-surface structure (<5km), (2) deep and ultra-deep hydrocarbon reservoir (6km~10km), (3) earthquake rupture, (4) crust/mantle structure.
+
+---
+We are a group of Computational Seismology at China University of Petroleum (East China). We are working on the high-resolution seismic imaging and inversion for different-scale targets:
+-  near-surface structure (<5km), 
+-  deep and ultra-deep hydrocarbon reservoir (6km~10km), 
+- earthquake rupture, 
+- crust/mantle structure.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+---
+
