@@ -16,12 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
 # Education to show in About widget
 education:
   courses:
@@ -34,6 +28,12 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
+
+# Interests to show in About widget
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
