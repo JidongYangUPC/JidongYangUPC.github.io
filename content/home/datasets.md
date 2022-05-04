@@ -27,14 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Modeling
-    tag: Modeling  
-  - name: Imaging
-    tag: Imaging  
-  - name: Inversion
-    tag: Inversion
-  - name: AI
-    tag: AI
+  - name: Models
+    tag: Models  
+  - name: Code
+    tag: Code
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
