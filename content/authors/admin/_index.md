@@ -21,7 +21,7 @@ education:
   courses:
   - course: Doctor of Philosophy in Geosciences
     institution: The University of Texas at Dallas
-    year: 2016.09--2020.05
+    year: 2016.08--2020.05
   - course: Master of Engineering in Geophysics
     institution: China University of Petroleum
     year: 2013.09--2016.07
