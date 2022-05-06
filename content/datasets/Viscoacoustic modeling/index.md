@@ -27,7 +27,7 @@ publication_short: Geophysical journal internationa
 # Summary. An optional shortened abstract.
 summary: We derive a time-domain complex-valued viscoacoustic wave equation for modelling seismic wave propagation in constant-Q media.   
 
-tags: [Modeling]
+tags: [Models]
 
 # Display this page in the Featured widget?
 featured: true
