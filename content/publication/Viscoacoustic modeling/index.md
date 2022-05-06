@@ -71,4 +71,4 @@ projects:
 slides: example
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](../../project/viscoacoustic-modeling/)
