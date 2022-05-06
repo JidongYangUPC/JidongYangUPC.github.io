@@ -1,8 +1,7 @@
 ---
 title: Velocity-and-attenuation-models-of-BP-Gas-Reservoir
-subtitle: Learn how to blog in Academic using Jupyter notebooks
+subtitle: 
 summary: This is a gas reservoir model with both P-wave velocity and Qp parameters. 
-tags:
 authors:
 - admin
 tags: [Modeling]
