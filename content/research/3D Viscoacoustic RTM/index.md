@@ -1,7 +1,7 @@
 ---
 title: "3D Viscoacoustic RTM"
 subtitle: 
-summary: Keyword：Numerical modelling, Computational seismology, Seismic attenuation, Wave propagation
+summary: Based on a new time-domain viscoacoustic wave equation, we have developed a viscoacoustic reverse time migration (RTM) approach to correct attenuation-associated dispersion and dissipation effects. 
 authors:
 - Jidong Yang
 - Hejun Zhu

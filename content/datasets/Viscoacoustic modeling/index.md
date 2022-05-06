@@ -22,12 +22,10 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysical journal international
-publication_short: Geophysical journal international
-
-abstract: We derive a time-domain complex-valued viscoacoustic wave equation for modelling seismic wave propagation in constant-Q media. The advantages of the proposed viscoacoustic wave equation include (1) that dispersion and dissipation effects are separated, which allows compensating amplitude loss in the migration and inversion by flipping the sign of dissipation term, (2) that quality factor Q is explicitly incorporated in the wave equation, which makes it easier to derive its sensitivity kernel in comparison with constant-Q and generated standard linear solid (GSLS) approaches, and (3) that it can be solved in the time-domain using time matching, which does not require to solve the inverse of impedance matrix and hence saves computational cost compared with the frequency-domain approach.
+publication_short: Geophysical journal internationa
 
 # Summary. An optional shortened abstract.
-summary: Keyword：Numerical modelling, Computational seismology, Seismic attenuation, Wave propagation  
+summary: We derive a time-domain complex-valued viscoacoustic wave equation for modelling seismic wave propagation in constant-Q media.   
 
 tags: [Modeling]
 
@@ -71,4 +69,8 @@ projects:
 slides: example
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+We derive a time-domain complex-valued viscoacoustic wave equation for modelling seismic wave propagation in constant-Q media. The advantages of the proposed viscoacoustic wave equation include (1) that dispersion and dissipation effects are separated, which allows compensating amplitude loss in the migration and inversion by flipping the sign of dissipation term, (2) that quality factor Q is explicitly incorporated in the wave equation, which makes it easier to derive its sensitivity kernel in comparison with constant-Q and generated standard linear solid (GSLS) approaches, and (3) that it can be solved in the time-domain using time matching, which does not require to solve the inverse of impedance matrix and hence saves computational cost compared with the frequency-domain approach.
+
+
+
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.

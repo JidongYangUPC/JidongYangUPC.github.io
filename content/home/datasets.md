@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: Datasets
+  page_type: datasets
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -41,11 +41,10 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 
 ---
 
-{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}data{{< /staticref >}}.
