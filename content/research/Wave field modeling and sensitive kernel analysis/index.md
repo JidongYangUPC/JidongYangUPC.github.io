@@ -21,7 +21,7 @@ image:
 
 ![snap_2](index.assets/snap_2.gif)
 
-### <center>sensitive kernel analysis<center>
+### <center>Sensitive kernel analysis<center>
 
 ###### <center><font color=blue> 5km reception, penetration depth of about 2.8km</font><center>
 
