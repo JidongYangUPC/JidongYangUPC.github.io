@@ -25,22 +25,22 @@ image:
 
 ### <center>Sensitive kernel analysis<center>
 
-###### <center><font color=blue> ● 5km reception, penetration depth of about 2.8km</font><center>
+###### <font color=blue> ● 5km reception, penetration depth of about 2.8km</font>
 
 ![图片1](index.assets/图片1.png)
 
-###### <center><font color=blue> ● 10km reception, penetration depth of about 5km</font><center>
+###### <font color=blue> ● 10km reception, penetration depth of about 5km</font>
 
 ![图片2](index.assets/图片2.png)
 
-###### <center><font color=blue> ● 15km reception, penetration depth of about 7.8km</font><center>
+###### <font color=blue> ● 15km reception, penetration depth of about 7.8km</font>
 
 ![图片3](index.assets/图片3.png)
 
-###### <center><font color=blue> ● 20km reception, penetration depth of about 9.8km</font><center>
+###### <font color=blue>● 20km reception, penetration depth of about 9.8km</font>
 
 ![图片4](index.assets/图片4.png)
 
-###### <center><font color=blue> ● **25km reception, penetration depth of about 10km**</font><center>
+###### <font color=blue> ● **25km reception, penetration depth of about 10km**</font>
 
 ![图片5](index.assets/图片5.png)
