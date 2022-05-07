@@ -44,5 +44,3 @@ image:
 ###### <center><font color=blue> ● **25km reception, penetration depth of about 10km**</font><center>
 
 ![图片5](index.assets/图片5.png)
-
-<table>     <tr>         <td><center>         <img src="index.assets/图片5.png" />         </center>         <center>         图6 图         </center></td>      <tr> </table>
