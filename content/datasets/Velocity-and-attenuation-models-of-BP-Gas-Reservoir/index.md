@@ -4,7 +4,7 @@ subtitle:
 summary: This is a gas reservoir model with both P-wave velocity and Qp parameters. 
 authors:
 - admin
-tags: [Modeling]
+tags: [Models]
 categories: []
 projects: []
 date: "2019-02-05T00:00:00Z"

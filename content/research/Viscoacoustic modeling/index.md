@@ -12,7 +12,7 @@ doi: "10.1093/gji/ggy323"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-08-07" 
 
-tags: [Models]
+tags: [Modeling]
 
 # Custom links (uncomment lines below)
 # links:
