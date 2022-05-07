@@ -10,6 +10,9 @@ main:
   - name: Research
     url: '#research'
     weight: 20
+  - name: Publication
+    url: '#publications'
+    weight: 30
   - name: Datasets
     url: '#datasets'
     weight: 60
