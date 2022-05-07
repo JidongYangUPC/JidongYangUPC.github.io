@@ -2,7 +2,7 @@
 
 title: Wave field modeling and sensitive kernel analysis
 subtitle: 
-summary: Wave field modeling and sensitive kernel analysis
+summary: Wave field modeling and sensitive kernel analysis in part of the Shengli model
 authors:
 - admin
 tags: [Modeling]
