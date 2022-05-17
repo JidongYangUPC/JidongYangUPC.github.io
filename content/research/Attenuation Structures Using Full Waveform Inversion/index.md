@@ -1,14 +1,14 @@
 ---
-title: "Attenuation structures using Full Waveform Inversion"
+title: "Attenuation Structures Using Full Waveform Inversion"
 subtitle: 
-summary: Based on a time domain complex-valued viscoacoustic wave equation, we present an FWI framework for simultaneously estimating subsurface P wave velocity and attenuation distributions. 
+summary: We present a novel passive-source monitoring approach using vector-based elastic time-reversal imaging. 
 authors:
 - Jidong Yang
 - Hejun Zhu
 doi: "10.1029/2019JB019129"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-21"
+publishDate: "2018-10-31"
 
 tags: [Inversion]
 
@@ -47,6 +47,6 @@ projects:
 #slides: example
 ---
 
-To complement velocity distributions, seismic attenuation provides additional important information on fluid properties of hydrocarbon reservoirs in exploration seismology, as well as temperature distributions, partial melting, and water content within the crust and mantle in earthquake seismology. Full waveform inversion (FWI), as one of the state-of-the-art seismic imaging techniques, can produce high-resolution constraints for subsurface (an)elastic parameters by minimizing the difference between observed and predicted seismograms. Traditional waveform inversion for attenuation is commonly based on the standard-linear-solid (SLS) wave equation, in which case the quality factor (Q) has to be converted to stress and strain relaxation times. When using multiple attenuation mechanisms in the SLS method, it is difficult to directly estimate these relaxation time parameters. Based on a time domain complex-valued viscoacoustic wave equation, we present an FWI framework for simultaneously estimating subsurface P wave velocity and attenuation distributions. Because Q is explicitly incorporated into the viscoacoustic wave equation, we directly derive P wave velocity and Q sensitivity kernels using the adjoint-state method and simultaneously estimate their subsurface distributions. By analyzing the Gauss-Newton Hessian, we observe strong interparameter crosstalk, especially the leakage from velocity to Q. We approximate the Hessian inverse using a preconditioned L-BFGS method in viscoacoustic FWI, which enables us to successfully reduce interparameter crosstalk and produce accurate velocity and attenuation models. 
+We present a novel passive-source monitoring approach using vector-based elastic time-reversal imaging. By solving the elastic wave equation using observed multicomponent records as boundary conditions, we first compute back-propagated elastic wavefields in the subsurface. Then, we separate the extrapolated wavefields into compressional (P-wave) and shear (S-wave) modes using the vector Helmholtz decomposition. A zero-lag cross-correlation imaging condition is applied to the separated pure-mode vector wavefields to produce passive-source images. To capture the propagation of microseismic fracture and earthquake rupture, we modify the traditional zero-lag cross-correlation imaging condition by summing the multiplication of the separated P and S wavefields within local time windows, which enables us to capture the temporal and spatial evolution of earthquake rupture.
 
-A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB019129)
+A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://academic.oup.com/gji/article/216/1/726/5151337?login=false)
