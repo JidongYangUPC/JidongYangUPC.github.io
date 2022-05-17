@@ -6,10 +6,10 @@ summary: Wave field modeling and sensitive kernel analysis in part of the Shengl
 authors:
 - admin
 tags: [Modeling]
+tags: [Inversion]
 categories: []
 projects: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: "2022-04-29"
 image:
   caption: ""
   focal_point: ""
