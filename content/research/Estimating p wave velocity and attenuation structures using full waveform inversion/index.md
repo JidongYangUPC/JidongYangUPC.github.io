@@ -1,5 +1,5 @@
 ---
-title: "Attenuation Structures Using Full Waveform Inversion"
+title: "Estimating p wave velocity and attenuation structures using full waveform inversion"
 subtitle: 
 summary: We present a novel passive-source monitoring approach using vector-based elastic time-reversal imaging. 
 authors:
