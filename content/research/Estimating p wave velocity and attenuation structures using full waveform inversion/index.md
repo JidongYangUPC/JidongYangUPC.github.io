@@ -1,7 +1,7 @@
 ---
 title: "Estimating p wave velocity and attenuation structures using full waveform inversion"
 subtitle: 
-summary: We present a novel passive-source monitoring approach using vector-based elastic time-reversal imaging. 
+summary: Based on a time domain complex-valued viscoacoustic wave equation, we present an FWI framework for simultaneously estimating subsurface P wave velocity and attenuation distributions.
 authors:
 - Jidong Yang
 - Hejun Zhu
