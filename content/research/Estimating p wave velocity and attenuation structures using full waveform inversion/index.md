@@ -1,6 +1,6 @@
 ---
-title: "Estimating p wave velocity and attenuation structures using full waveform inversion"
-subtitle: 
+title: "Q-FWI"
+subtitle:
 summary: Based on a time domain complex-valued viscoacoustic wave equation, we present an FWI framework for simultaneously estimating subsurface P wave velocity and attenuation distributions.
 authors:
 - Jidong Yang
@@ -29,7 +29,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

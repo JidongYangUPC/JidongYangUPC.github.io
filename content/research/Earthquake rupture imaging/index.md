@@ -1,6 +1,6 @@
 ---
-title: "Earthquake rupture imaging (GLR)"
-subtitle: 
+title: "Earthquake rupture imaging"
+subtitle:
 summary: We present an integrative analysis for the 2020 Stanley earthquake using state-of-the-art methods in seismology and remote sensing.  
 authors:
 - Jidong Yang
@@ -29,7 +29,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -47,6 +47,6 @@ projects:
 #slides: example
 ---
 
-We present an integrative analysis for the 2020 Stanley earthquake using state-of-the-art methods in seismology and remote sensing. An opposing-dip two-fault model is prescribed to reconcile the observations of aftershock distribution, teleseismic records and near-field InSAR deformation, which includes an unmapped northern subfault with predominantly strike-slip faulting and a southern subfault subparallel to the Sawtooth fault with predominantly normal faulting. The converging fault geometry allows the rupture to traverse a surficial 10-km-wide step, which is greater than the limiting dimension(3-4 km) that commonly ceases earthquake ruptures. Considering tectonic settings, we infer that the composite ruptures involving both strike-slip and normal faulting appears to be typical for earthquakes located near the northern boundary of the CTB, which is different from the predominantly normal faulting in the central CTB. 
+We present an integrative analysis for the 2020 Stanley earthquake using state-of-the-art methods in seismology and remote sensing. An opposing-dip two-fault model is prescribed to reconcile the observations of aftershock distribution, teleseismic records and near-field InSAR deformation, which includes an unmapped northern subfault with predominantly strike-slip faulting and a southern subfault subparallel to the Sawtooth fault with predominantly normal faulting. The converging fault geometry allows the rupture to traverse a surficial 10-km-wide step, which is greater than the limiting dimension(3-4 km) that commonly ceases earthquake ruptures. Considering tectonic settings, we infer that the composite ruptures involving both strike-slip and normal faulting appears to be typical for earthquakes located near the northern boundary of the CTB, which is different from the predominantly normal faulting in the central CTB.
 
 A detailed introduction can be downloaded and viewed as a pdf, or [click this link.](https://academic.oup.com/gji/article/216/1/726/5151337?login=false)
