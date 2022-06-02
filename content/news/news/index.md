@@ -22,7 +22,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#url: https://www.mdpi.com/journal/geosciences/special_issues/exploration_seismology
+url: https://www.mdpi.com/journal/geosciences/special_issues/exploration_seismology
 url_pdf: ''
 url_code: ''
 url_dataset: ''
