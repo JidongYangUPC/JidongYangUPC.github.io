@@ -40,4 +40,4 @@ image:
   preview_only: false
 ---
 
-A detailed introduction can [https://www.mdpi.com/journal/geosciences/special_issues/exploration_seismology.]()
+A detailed introduction can [click this link.](https://www.mdpi.com/journal/geosciences/special_issues/exploration_seismology)
