@@ -7,6 +7,7 @@ authors:
 - admin
 tags: [Modeling]
 tags: [Inversion]
+weight: 70
 categories: []
 projects: []
 date: "2022-04-29"

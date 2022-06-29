@@ -10,6 +10,8 @@ publishDate: "2022-05-13"
 
 tags: [Deep-Learning]
 
+weight: 110
+
 # Display this page in the Featured widget?
 featured: false
 

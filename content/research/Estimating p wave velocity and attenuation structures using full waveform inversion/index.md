@@ -12,6 +12,8 @@ publishDate: "2018-10-31"
 
 tags: [Inversion]
 
+weight: 90
+
 # Display this page in the Featured widget?
 featured: false
 

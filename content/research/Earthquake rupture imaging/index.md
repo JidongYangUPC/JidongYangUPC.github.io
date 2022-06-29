@@ -12,6 +12,8 @@ publishDate: "2021-05-13"
 
 tags: [Imaging]
 
+weight: 60
+
 # Display this page in the Featured widget?
 featured: false
 

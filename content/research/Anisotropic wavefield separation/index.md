@@ -14,6 +14,8 @@ publishDate: "2019-02-13"
 
 tags: [Modeling]
 
+weight: 10
+
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
